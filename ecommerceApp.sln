@@ -3,7 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ecommerceApp", "ecommerceApp\ecommerceApp.csproj", "{56B1805A-87A9-4395-B533-8C25DB4C72DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ecommerceApp", "ecommerceApp\ecommerceApp.csproj", "{56B1805A-87A9-4395-B533-8C25DB4C72DC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{23F22813-09E5-4F9F-B76E-8FF016DBD4F1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E2CCF7AF-A080-44E5-A94A-A7E825D91AA6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{08698800-DAF0-42F6-A7CC-303B834A7213}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplicationCore", "ApplicationCore\ApplicationCore.csproj", "{B56F9A88-1517-4F64-BB65-929A3AC68E74}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,9 +23,16 @@ Global
 		{56B1805A-87A9-4395-B533-8C25DB4C72DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56B1805A-87A9-4395-B533-8C25DB4C72DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56B1805A-87A9-4395-B533-8C25DB4C72DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B56F9A88-1517-4F64-BB65-929A3AC68E74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B56F9A88-1517-4F64-BB65-929A3AC68E74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B56F9A88-1517-4F64-BB65-929A3AC68E74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B56F9A88-1517-4F64-BB65-929A3AC68E74}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B56F9A88-1517-4F64-BB65-929A3AC68E74} = {23F22813-09E5-4F9F-B76E-8FF016DBD4F1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {81C8E5D2-8553-468D-BB05-CEE063F38BB6}

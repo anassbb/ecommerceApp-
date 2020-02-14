@@ -1,0 +1,5 @@
+C:\Users\aab\source\repos\ecommerceApp\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.deps.json
+C:\Users\aab\source\repos\ecommerceApp\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.dll
+C:\Users\aab\source\repos\ecommerceApp\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.csprojAssemblyReference.cache
+C:\Users\aab\source\repos\ecommerceApp\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\aab\source\repos\ecommerceApp\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.AssemblyInfo.cs
